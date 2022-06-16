@@ -1,0 +1,3 @@
+#+title: Libre Actions training
+
+Training repository of new techniques and interesting things I saw around
