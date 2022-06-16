@@ -2,4 +2,4 @@
 
 Font: [[https://www.youtube.com/watch?v=BMphVl9suxA][Online Tutorials]]
 
-#+html: <p align="center"><img src="/screenshot.png" /></p>
+[[file:screeshot.png]]
